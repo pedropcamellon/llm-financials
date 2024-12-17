@@ -1,0 +1,71 @@
+Supplier Snapshot Strategy
+Deutsche Post AG is headquartered in Bonn, Germany and active in the sector: Postal Service.
+We have 1 spend(s) with Deutsche Post AG adding up to a volume of USD 1.8k representing 0.004% of the total analyzed spend on the ADA Platform. We transact with the supplier in the following currency(ies): EUR.
+Our average payment terms with the supplier are 30 days, which are 5 days lower compared to the average payment terms of the total analyzed spend.
+On this particular spend ('Spend 1') of USD 1.8k, based on the analysis performed by the ADA Platform with a moderate approach, we recommend extending our current payment terms with the supplier by 30 days.
+The additional 30 days extension with the supplier moves our terms to 60 days, which represents USD 145.20 of working capital optimization for our organization.
+Deutsche Post AG is a Micro Enterprise with approximately USD 35.2k in estimated annual sales.
+Our annual spend with Deutsche Post AG represents 5.0% of their total revenue, which indicates that we have a Medium Buyer Leverage or Materiality towards the supplier.
+On the other side, the supplier spend represents 0.004% of our total analyzed spend on the ADA Platform, which indicates that the Supplier has a Low Supplier Leverage or Materiality towards us.
+The company has an estimated Credit Rating of BBB. The credit rating is based on (External Credit Rating Agencies, the ultimate parent's credit rating adjusted by industry and country / calculations with the limited financial data depth the platform has on the supplier.
+
+
+Pay on Terms Strategy
+On this spend ("Spend 1"), we have current average payment terms of 30 days while our contractual payment terms are 30 days.
+Thus, there is no opportunity to increase our payment terms as our actual terms on this spend ("Spend 1") are already equal to the contractual terms agreed with Deutsche Post AG.
+
+
+Supplier Parent Strategy
+There is no opportunity to improve our payment terms based on the Supplier Parent Strategy as there is no other supplier owned by the same parent company within the analyzed spend portfolio.
+
+
+Industry Group Strategy
+The ADA Platform identified 14 suppliers in the analyzed spend belonging to the same industry as Deutsche Post AG. On average, the suppliers have 30 days on current average payment terms.
+
+
+Spend Group Strategy
+Unfortunately, there is no opportunity to optimize our payment terms based on the Supplier Group Strategy as there is no other spend with Deutsche Post AG in our analyzed spend portfolio.
+
+
+DSO Strategy
+Unfortunately,ADA cannot recommend extending our payment terms based on the DSO strategy because there is no information available related to the DSO of our supplier, Deutsche Post AG, nor its parent organization, -.
+
+
+Financing Strategy
+If Deutsche Post AG was offered the option to participate in the selected financing program, they could benefit from a lower annual financing rate of approximately 4.09%.
+By comparing the supplier's estimated cost of financing of 4.36% with the selected financing rate of 4.09% we identified a potential opportunity to extend our payment terms to a maximum of 56 days, which would result in USD 125.84 additional cash flow for our organization.
+If the payment terms with them were extended to 56 days, the impact would be cost-neutral for our supplier. In other words, the low financing rate we are offering is offsetting the longer payment terms.
+
+
+Cash Discount Conversion Strategy
+Unfortunately, there is no opportunity to extend payment terms based on the Cash Discount Conversion Strategy as we have no cash discounts as per our contract with Deutsche Post AG on this spend ("Spend 1").
+
+
+Peer Group Average Strategy
+The Peer Group Average is a good indicator of a supplier’s payment terms with comparable companies selling similar goods and services to similar customers to us.
+ADA Platform identified an opportunity as Deutsche Post AG's peer group has on average payment term 40 days. In comparison with our current average payment terms of this spend ("Spend 1") with our supplier, we pay 10 days earlier than the market average.
+Based on this strategy, we could extend our payment terms by 10 days to be aligned with the market and the peer group average of Deutsche Post AG.
+By implementing the new payment terms of 40 days, we have the potential opportunity to improve our working capital and cash flow by USD 48.40.
+On the other hand, the potential increase on payment terms of 10 days for this spend ("Spend 1") represent an increase of 33.3%.
+
+
+Regulatory Terms Strategy
+Please note that there are regulatory limitations or payment terms legislations in Germany where Deutsche Post AG is located. These regulations may limit the length of payment terms that can be applied.
+The regulation published for the country: Germany and/or the industry: Postal Service are 60 days.
+Please note, however, that a payment terms negotiation and extension cannot be based solely on this information. On many occasions, some regulations are not applied in the market and are only used as general guidance. In other cases, if terms are lower, the regulatory standard can be used to reinforce the message when to improve payment terms.
+
+
+Summary
+The table that summarizes the payment terms for all the strategies, ordering the proposed payment terms from the best to those with the least difference comparing with the current payment terms:
+
+Strategy Name                        Proposed Payment Terms        Current Payment Terms
+Supplier Snapshot Strategy           60 days                       30 days
+Regulatory Terms Strategy            60 days                       30 days
+Financing Strategy                   56 days                       30 days
+Peer Group Average Strategy          40 days                       30 days
+Pay on Terms Strategy                30 days                       30 days
+Supplier Parent Strategy             30 days                       30 days
+Industry Group Strategy              30 days                       30 days
+Spend Group Strategy                 30 days                       30 days
+DSO Strategy                         30 days                       30 days
+Cash Discount Conversion Strategy    30 days                       30 days

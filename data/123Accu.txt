@@ -1,0 +1,65 @@
+# Supplier Snapshot Strategy
+123Accu B.V. is headquartered in Almere, Netherlands and active in the sector: Wholesale Electronic Markets and Agents and Brokers.
+We have 1 spend(s) with 123Accu B.V. adding up to a volume of USD 665.36 representing 0.000% of the total analyzed spend on the ADA Platform. We transact with the supplier in the following currency(ies): EUR.
+Our average payment terms with the supplier are 0 days, which are 27 days lower compared to the average payment terms of the total analyzed spend.
+On this particular spend ('Spend 1') of USD 665.36, based on the analysis performed by the ADA Platform with a moderate approach, we recommend extending our current payment terms with the supplier by 45 days.
+The additional 45 days extension with the supplier moves our terms to 45 days, which represents USD 82.26 of working capital optimization for our organization.
+123Accu B.V. is a Micro Enterprise with approximately USD 2.3m in estimated annual sales.
+Our annual spend with 123Accu B.V. represents 0.03% of their total revenue, which indicates that we have a Low Buyer Leverage or Materiality towards the supplier.
+On the other side, the supplier spend represents 0.000% of our total analyzed spend on the ADA Platform, which indicates that the Supplier has a Low Supplier Leverage or Materiality towards us.
+The company has an estimated Credit Rating of B. The credit rating is based on (External Credit Rating Agencies, the ultimate parent's credit rating adjusted by industry and country/calculations with the limited financial data depth the platform has on the supplier.
+
+# Strategies
+
+## Pay on Terms Strategy
+ADA cannot advise improving our payment terms based on the Supplier Parent Strategy as the information is not available.
+
+## Supplier Parent Strategy
+There is no opportunity to improve our payment terms based on the Supplier Parent Strategy as there is no other supplier owned by the same parent company within the analyzed spend portfolio.
+
+## Industry Group Strategy
+The ADA Platform identified 37 suppliers in the analyzed spend belonging to the same industry as 123Accu B.V.. On average, the suppliers have 21 days on current average payment terms.
+
+## Spend Group Strategy
+Unfortunately, there is no opportunity to optimize our payment terms based on the Supplier Group Strategy as there is no other spend with 123Accu B.V. in our analyzed spend portfolio.
+
+## DSO Strategy
+Unfortunately,ADA cannot recommend extending our payment terms based on the DSO strategy because there is no information available related to the DSO of our supplier, 123Accu B.V., nor its parent organization, -.
+
+## Financing Strategy
+Unfortunately, there is no opportunity to optimize our payment terms based on the Financing, as the option is not available or is not selected.
+
+## Cash Discount Conversion Strategy
+There is a potential opportunity to optimize our working capital by converting early cash discounts we pay 123Accu B.V. on this spend ("Spend 1") into longer payment terms.
+Currently, we have 0.000% cash discount when paying the supplier in 0 days and Net 0 days.
+Based on the moderate approach, ADA identified a potential opportunity to convert them into longer payment terms of 37 days, which could result in USD 67.63 under the Cash Discount Conversion Strategy.
+The overall financial impact on 123Accu B.V. is neutral as the longer terms offset the cash discount.
+By converting our cash discount into longer terms, we could loose potential cash discounts. During the period from Jan 01st,2022 to Dec 31st,2022, we captured USD - in cash discounts related to this Spend ("123Accu B.V.").
+
+## Peer Group Average Strategy
+The Peer Group Average is a good indicator of a supplier’s payment terms with comparable companies selling similar goods and services to similar customers to us.
+ADA Platform identified an opportunity as 123Accu B.V.'s peer group has on average payment term 44 days. In comparison with our current average payment terms of this spend ("Spend 1") with our supplier, we pay 44 days earlier than the market average.
+Based on this strategy, we could extend our payment terms by 44 days to be aligned with the market and the peer group average of 123Accu B.V..
+By implementing the new payment terms of 44 days, we have the potential opportunity to improve our working capital and cash flow by USD 80.43.
+On the other hand, the potential increase on payment terms of 44 days for this spend ("Spend 1") represent an increase of -.
+
+## Regulatory Terms Strategy
+Please note that there are regulatory limitations or payment terms legislations in Netherlands where 123Accu B.V. is located. These regulations may limit the length of payment terms that can be applied.
+The regulation published for the country: Netherlands and/or the industry: Wholesale Electronic Markets and Agents and Brokers are 30 days.
+Please note, however, that a payment terms negotiation and extension cannot be based solely on this information. On many occasions, some regulations are not applied in the market and are only used as general guidance. In other cases, if terms are lower, the regulatory standard can be used to reinforce the message when to improve payment terms.
+
+# Summary
+The table that summarizes the payment terms for all the strategies. First columns shows the strategy name, the second the Proposed Payment Terms and the third the Current Payment Terms. Ordering the proposed payment terms from the best or highest to those with the least difference comparing with the current payment terms:
+
+Strategy Name                       |Proposed Payment Terms       |Current Payment Terms
+------------------------------------------------------------------|--------------------------
+Supplier Snapshot Strategy          |45 days                      | 0 days
+Peer Group Average Strategy         |44 days                      | 0 days
+Cash Discount Conversion Strategy   |37 days                      | 0 days
+Regulatory Terms Strategy           |30 days                      | 0 days
+Industry Group Strategy             |21 days                      | 0 days
+DSO Strategy                        | 0 days                       |0 days
+Financing Strategy                  | 0 days                       |0 days
+Pay on Terms Strategy               | 0 days                       |0 days
+Supplier Parent Strategy            | 0 days                       |0 days
+Spend Group Strategy                | 0 days                       |0 days
